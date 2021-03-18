@@ -1,6 +1,6 @@
 """Elevator algorithm simulation program.
 
-automated elevator simulation written for SmartCone Technologies Inc.
+automated elevator simulation written.
 Program simulates a building with 3 elevators which calculates the most
 optimal path to pick up passengers, and distributes passengers giving the
 shortest possible wait time.
